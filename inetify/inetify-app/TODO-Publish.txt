@@ -1,5 +1,0 @@
-- Remove "debuggable" from manifest
-- Remove android.permission.ACCESS_MOCK_LOCATION from manifest
-- Comment all Log statements
-# - Put the correct Google maps apiKey in locationmapview.xml
-- Update versionCode and versionName in the manifest

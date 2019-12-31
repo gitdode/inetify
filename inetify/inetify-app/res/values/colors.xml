@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<color name="green_ok">#ff15dc23</color>
-	<color name="red_nok">#ffff0000</color>
-	<color name="grey_semitransparent">#99000000</color>
-</resources>
